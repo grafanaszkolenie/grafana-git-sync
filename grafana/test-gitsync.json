@@ -58,7 +58,7 @@
           "description": "",
           "id": 1,
           "links": [],
-          "title": "New panel",
+          "title": "New panel from github",
           "vizConfig": {
             "group": "timeseries",
             "kind": "VizConfig",
