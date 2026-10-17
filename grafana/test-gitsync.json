@@ -13,7 +13,7 @@
           "enable": true,
           "hide": true,
           "iconColor": "rgba(0, 211, 255, 1)",
-          "name": "Annotations & Alerts",
+          "name": "Annotations \u0026 Alerts",
           "query": {
             "datasource": {
               "name": "-- Grafana --"
@@ -154,7 +154,7 @@
                 "kind": "ElementReference",
                 "name": "panel-1"
               },
-              "height": 5,
+              "height": 9,
               "width": 24,
               "x": 0,
               "y": 0
